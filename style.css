@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #d9dbb3;
+    background-color: #d5bf98;
 }
 
 h1, h2 {
@@ -52,15 +52,15 @@ h1, h2 {
 
 a {
     text-decoration: underline;
-    color: rgb(37, 37, 37);
-}
-
-a:hover {
-    color: rgb(110, 220, 110);
+    color: black;
 }
 
 a:visited {
-    color: rgb(62, 106, 140);
+    color: #6a9591;
+}
+
+a:hover {
+    color: #98d5cf;
 }
 
 .text-body {
